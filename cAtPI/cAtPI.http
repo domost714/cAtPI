@@ -1,0 +1,6 @@
+@cAtPI_HostAddress = http://localhost:5090
+
+GET {{cAtPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
