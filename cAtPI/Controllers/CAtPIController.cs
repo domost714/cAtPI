@@ -1,5 +1,4 @@
 ﻿using cAtPI.Data;
-using cAtPI.Models;
 using cAtPI.Models.DTO;
 using Microsoft.AspNetCore.Mvc;
 
